@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Casual Cotton T-Shirt",
+    "image": "https://i.ibb.co/bQpSgKP/web-5-300x300.png",
+    "category": "Clothing",
+    "subcategory": "Men's Wear",
+    "description": "Comfortable and stylish cotton t-shirt for everyday wear.",
+    "price": 20.0,
+    "discountPrice": 15.0,
+    "status": "Available"
+  }
+]
+
